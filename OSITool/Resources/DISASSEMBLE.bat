@@ -1,0 +1,1 @@
+sage-js res:osi:asm:sd "%ProgramFiles(x86)%\LEGO Media\LEGO Bionicle (Beta)\data\Base.osi" "%UserProfile%\Documents\GitHub\Optional-OSIProject\OSIProject" -p
